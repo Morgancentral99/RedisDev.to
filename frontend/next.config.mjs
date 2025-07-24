@@ -1,3 +1,4 @@
+const repoName = 'RedisDev.to';
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
